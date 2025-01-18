@@ -10,7 +10,7 @@
 
 <br clear="both">
 
-<img align="left" height="150" src="https://cloud.appwrite.io/v1/storage/buckets/677848ae00265f29f6b3/files/678afa56000e61fb1310/view?project=6778477f001b97fc2de3&project=6778477f001b97fc2de3&mode=admin"  />
+<img align="left" height="150" src="https://cloud.appwrite.io/v1/storage/buckets/677848ae00265f29f6b3/files/678b153c0039ab20cee0/view?project=6778477f001b97fc2de3&project=6778477f001b97fc2de3&mode=admin"  />
 
 ###
 
@@ -35,13 +35,13 @@
 ###
 
 <div align="left">
-  <a href="paypal.me/irviwade" target="_blank">
+  <a href="paypal.me/irviwade">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
-  <a href="https://ko-fi.com/irviwade" target="_blank">
+  <a href="https://ko-fi.com/irviwade">
     <img src="https://img.shields.io/static/v1?message=Ko-fi&logo=ko-fi&label=&color=F16061&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="ko-fi logo"  />
   </a>
-  <a href="https://discord.gg/AMsUN7fePw" target="_blank">
+  <a href="https://discord.gg/AMsUN7fePw">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
 </div>
