@@ -35,7 +35,7 @@
 ###
 
 <div align="left">
-  <a href="paypal.me/irviwade">
+  <a href="https://paypal.me/irviwade">
     <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
   </a>
   <a href="https://ko-fi.com/irviwade">
